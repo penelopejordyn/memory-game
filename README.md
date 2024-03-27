@@ -1,1 +1,1 @@
-https://github.com/penelopejordyn/memory-game/deployments/github-pages
+https://penelopejordyn.github.io/memory-game/
